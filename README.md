@@ -41,9 +41,11 @@ Analyzed the recruitment funnel to identify candidate drop-off points and evalua
 
 ### 📊 [Worldwide Furniture Sales Analysis](https://github.com/NarmadaAnalytics/Worldwide-Furniture-Sales-Analysis)
 
-Analyzed worldwide furniture sales data and developed interactive dashboards to track sales performance, profitability, customer insights, and business trends.
+Analyzed worldwide furniture sales data to uncover trends in sales performance, profitability, customer contribution, product categories, and regional performance.
 
-**Tools:** Excel | Power BI | Data Visualization
+Built an interactive Excel dashboard to present key KPIs and business insights through PivotTables, PivotCharts, slicers, and Excel formulas.
+
+**Tools:** Microsoft Excel · PivotTables · PivotCharts · Slicers · Excel Formulas · Data Analysis · Data Visualization · Dashboard Design
 
 ## 🎓 Certifications & Credentials
 
