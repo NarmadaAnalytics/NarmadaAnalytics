@@ -10,3 +10,13 @@ I'm **Narmada Somasundaram**, an aspiring Data Analyst with hands-on experience 
 - 📈 Passionate about turning complex datasets into clear, actionable insights
 - 🗂️ Building a portfolio of real-world projects including **Worldwide Furniture Sales Dashboard, E-Commerce Sales & Customer Analytics, and Recruitment Funnel Analysis**
 - 🌱 Continuously expanding my skills in **Python and modern data analytics tools**
+
+
+## 🛠️ Technical Skills
+
+- **Data Visualization:** Power BI, Tableau, Advanced Excel
+- **Data Analysis:** Excel, SQL, Power Query, DAX
+- **Programming:** Python
+- **Databases:** MySQL, SQL Server
+- **Analytics:** Data Cleaning, Data Transformation, Exploratory Data Analysis, KPI Reporting
+- **Tools:** GitHub, Microsoft Fabric
