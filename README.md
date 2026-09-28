@@ -41,3 +41,17 @@ Analyzed the Olist Brazilian E-Commerce dataset to uncover revenue trends, custo
 Analyzed recruitment data to understand candidate progression, hiring performance, and key recruitment KPIs.
 
 **Tools:** Power BI | Excel | Data Visualization
+
+## 🎓 Certifications & Learning
+
+- 🏅 Databricks Academy – Data Analyst Learning/Accreditation
+- 🏅 Databricks Academy – Generative AI Fundamentals
+- 📘 Microsoft Fabric – Fundamentals & Hands-on Learning
+- 📊 Continuous learning in Power BI, SQL, Python, and Data Analytics
+
+- ## 🤝 Connect With Me
+
+I'm always open to connecting with fellow data professionals and exploring opportunities in Data Analytics.
+
+- 💼 **LinkedIn:** [Narmada Minu Somasundaram](https://www.linkedin.com/in/narmada-minu-somasundaram/)
+- 💻 **GitHub:** [NarmadaAnalytics](https://github.com/NarmadaAnalytics)
