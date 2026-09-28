@@ -20,3 +20,24 @@ I'm **Narmada Somasundaram**, an aspiring Data Analyst with hands-on experience 
 - **Databases:** MySQL, SQL Server
 - **Analytics:** Data Cleaning, Data Transformation, Exploratory Data Analysis, KPI Reporting
 - **Tools:** GitHub, Microsoft Fabric
+
+## 📂 Featured Projects
+
+### 📊 Worldwide Furniture Sales Dashboard
+Analyzed furniture sales data and developed interactive dashboards to track sales performance, profitability, and business trends.
+
+**Tools:** Excel | Power BI | Data Visualization
+
+---
+
+### 🛒 E-Commerce Sales & Customer Analytics
+Analyzed the Olist Brazilian E-Commerce dataset to uncover revenue trends, customer behavior, and customer value using SQL and Power BI.
+
+**Tools:** SQL | Power BI | Data Analysis | RFM Analysis
+
+---
+
+### 👥 Recruitment Funnel Analysis
+Analyzed recruitment data to understand candidate progression, hiring performance, and key recruitment KPIs.
+
+**Tools:** Power BI | Excel | Data Visualization
