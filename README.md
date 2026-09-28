@@ -8,7 +8,7 @@ I'm **Narmada Somasundaram**, a Data Analyst focused on transforming raw data in
 - 📊 Skilled in **Power BI, Advanced Excel, SQL, Tableau, and Data Visualization**
 - 🔍 Experienced in **data cleaning, analysis, dashboard development, and KPI reporting**
 - 📈 Passionate about turning complex datasets into clear, actionable insights
-- 🗂️ Built analytics projects including **Worldwide Furniture Sales Dashboard, E-Commerce Sales & Customer Analytics, and Recruitment Funnel Analysis**
+- 🗂️ Built analytics projects including **E-Commerce Sales & Customer Analytics, Recruitment Funnel Analysis, and Worldwide Furniture Sales Dashboard**
 - 🌱 Continuously expanding my skills in **Python and modern data analytics tools**
 
 
@@ -23,24 +23,27 @@ I'm **Narmada Somasundaram**, a Data Analyst focused on transforming raw data in
 
 ## 📂 Featured Projects
 
-### 📊 Worldwide Furniture Sales Dashboard
-Analyzed furniture sales data and developed interactive dashboards to track sales performance, profitability, and business trends.
+### 🛒 [E-Commerce Sales & Customer Analytics](https://github.com/NarmadaAnalytics/E-commerce-sales-customer-analytics)
+
+End-to-end e-commerce analytics project analyzing sales performance, customer behavior, and customer value to uncover actionable business insights.
+
+**Tools:** BigQuery | SQL | Power BI | RFM Analysis
+
+---
+
+### 👥 [Recruitment Funnel Analysis](https://github.com/NarmadaAnalytics/Recruitment-funnel-analysis)
+
+Analyzed the recruitment funnel to identify candidate drop-off points and evaluate hiring performance across departments and sourcing channels.
+
+**Tools:** SQL | Power BI | Data Visualization
+
+---
+
+### 📊 [Worldwide Furniture Sales Analysis](https://github.com/NarmadaAnalytics/Worldwide-Furniture-Sales-Analysis)
+
+Analyzed worldwide furniture sales data and developed interactive dashboards to track sales performance, profitability, customer insights, and business trends.
 
 **Tools:** Excel | Power BI | Data Visualization
-
----
-
-### 🛒 E-Commerce Sales & Customer Analytics
-Analyzed the Olist Brazilian E-Commerce dataset to uncover revenue trends, customer behavior, and customer value using SQL and Power BI.
-
-**Tools:** SQL | Power BI | Data Analysis | RFM Analysis
-
----
-
-### 👥 Recruitment Funnel Analysis
-Analyzed recruitment data to understand candidate progression, hiring performance, and key recruitment KPIs.
-
-**Tools:** Power BI | Excel | Data Visualization
 
 ## 🎓 Certifications & Learning
 
