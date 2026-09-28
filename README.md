@@ -3,12 +3,12 @@
 </p>
 ## 👩‍💻 About Me
 
-I'm **Narmada Somasundaram**, an aspiring Data Analyst with hands-on experience transforming raw data into meaningful business insights.
+I'm **Narmada Somasundaram**, a Data Analyst focused on transforming raw data into meaningful business insights through analysis, visualization, and dashboard development.
 
 - 📊 Skilled in **Power BI, Advanced Excel, SQL, Tableau, and Data Visualization**
 - 🔍 Experienced in **data cleaning, analysis, dashboard development, and KPI reporting**
 - 📈 Passionate about turning complex datasets into clear, actionable insights
-- 🗂️ Building a portfolio of real-world projects including **Worldwide Furniture Sales Dashboard, E-Commerce Sales & Customer Analytics, and Recruitment Funnel Analysis**
+- 🗂️ Built analytics projects including **Worldwide Furniture Sales Dashboard, E-Commerce Sales & Customer Analytics, and Recruitment Funnel Analysis**
 - 🌱 Continuously expanding my skills in **Python and modern data analytics tools**
 
 
