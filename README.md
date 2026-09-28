@@ -45,13 +45,13 @@ Analyzed worldwide furniture sales data and developed interactive dashboards to 
 
 **Tools:** Excel | Power BI | Data Visualization
 
-## 🎓 Certifications & Learning
+## 🎓 Certifications & Credentials
 
-- 🏅 Databricks Academy – Data Analyst Learning/Accreditation
-- 🏅 Databricks Academy – Generative AI Fundamentals
-- 📘 Microsoft Fabric – Fundamentals & Hands-on Learning
-- 📊 Continuous learning in Power BI, SQL, Python, and Data Analytics
-
+- 📊 **Data Analyst in Power BI** — DataCamp
+- 🎓 **Certificate of Professional Learning in Data Analytics** — McMaster University
+- 🏅 **Academy Accreditation – Databricks Fundamentals** — Databricks
+- 🏅 **Academy Accreditation – Azure Databricks Platform Architect** — Databricks
+- 
 - ## 🤝 Connect With Me
 
 I'm always open to connecting with fellow data professionals and exploring opportunities in Data Analytics.
